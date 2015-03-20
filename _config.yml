@@ -1,0 +1,12 @@
+# Site settings
+title: Cqseek
+email: 1033296921@qq.com
+description: > # this means to ignore newlines until "baseurl:"
+  陈琦的探索,记录走过的风景.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cqseek.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username:  cqseek
+
+# Build settings
+markdown: kramdown
